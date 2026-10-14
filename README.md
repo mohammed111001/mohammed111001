@@ -20,20 +20,24 @@ I combine hands-on software development with technical coordination, problem-sol
 - 🤖 Using AI-assisted workflows to accelerate development, with a focus on reviewing, testing, and improving results
 - 📈 Interested in both Software Engineering and Technical Management
 
+
 ### 🛠️ Technologies & Areas of Focus
 
 **Development**
-- Python
-- Odoo ERP
-- React
-- Web Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Web Development](https://img.shields.io/badge/Web_Development-334155?style=for-the-badge)
 
 **Professional Focus**
+
 - Technical Supervision
 - Software Development
 - ERP Systems
 - AI-Assisted Development
 - Problem Solving
+
 
 ### 🚀 What I'm Working On
 
