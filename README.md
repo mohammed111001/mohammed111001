@@ -1,7 +1,19 @@
 
-# Hi there, I'm Mohammed Samir 👋
 
-### Software Developer | Odoo ERP | Web Development | Technical Supervision
+<div align="center">
+  <h1>Mohammed Samir</h1>
+
+  <p><strong>Python &amp; Odoo Developer | Web Development</strong></p>
+
+  <p>Computer Department Supervisor | CS Graduate, Damietta University</p>
+
+  <p>📍 Sakaka, Al Jawf, Saudi Arabia</p>
+
+  <a href="https://www.linkedin.com/in/mohammed-samir-13657a2ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+</div>
+
 
 I'm a Computer Science graduate from **Damietta University, Egypt**, with experience in software development, ERP systems, and technical supervision.
 
