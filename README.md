@@ -81,11 +81,13 @@ The system helps streamline academic scheduling by automatically generating time
 ---
 
 
-### 🚀 What I'm Working On
 
-- Improving an academic timetable management application
-- Developing my web development skills
-- Building and documenting my software portfolio
+### 🎯 Current Focus
+
+- Strengthening my Python, Odoo ERP, and React development skills
+- Building practical web applications using AI-assisted development workflows
+- Combining software development with technical supervision and project coordination
+
 
 ### 🤝 Let's Connect
 
