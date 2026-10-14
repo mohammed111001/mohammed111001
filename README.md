@@ -51,6 +51,36 @@ I combine hands-on software development with technical coordination, problem-sol
 - Problem Solving
 
 
+---
+
+### 🌟 Featured Projects
+
+#### 📅 Sakaka Institute Timetable
+
+**Automated Academic Timetable Management System**
+
+A web-based academic timetable management system developed for a higher training institute in Sakaka, Saudi Arabia.
+
+The system helps streamline academic scheduling by automatically generating timetables and detecting and resolving scheduling conflicts.
+
+**Key Features**
+- Automated timetable generation
+- Scheduling conflict detection and resolution
+- Academic timetable management
+- Web-based application
+
+**Project Details**
+- **Category:** Educational Management Software
+- **Runtime:** Node.js
+- **Deployment:** Render
+- **Status:** Live — New Version in Development
+- **Source Code:** Private
+
+[![Live Application](https://img.shields.io/badge/Live_Application-View_Project-2EA44F?style=for-the-badge&logo=render&logoColor=white)](https://sakaka-institute-timetable.onrender.com/)
+
+---
+
+
 ### 🚀 What I'm Working On
 
 - Improving an academic timetable management application
