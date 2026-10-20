@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Mohammed Samir</h1>
 
-  <p><strong>Python &amp; Odoo Developer | Web Development</strong></p>
+  <p><strong>Software Developer &amp; Technical Supervisor | Python · Odoo ERP · React</strong></p>
 
   <p>Computer Department Supervisor | CS Graduate, Damietta University</p>
 
@@ -23,12 +23,21 @@ I combine hands-on software development with technical coordination, problem-sol
 
 ---
 
+### Portfolio
+
+[**Explore my portfolio ↗**](https://mohammed-samir-portfolio.vercel.app/) · [Portfolio source](https://github.com/mohammed111001/mohammed-samir-portfolio)
+
+Selected web applications and Odoo work, with case studies, a timetable demonstration, and downloadable professional profiles in English and Arabic.
+
+---
+
 ### 👨‍💻 About Me
 
 - 🎓 B.Sc. in Computer Science — Damietta University
 - 💼 Computer Department Supervisor in Sakaka, Saudi Arabia
 - 🐍 Previous experience as a Python & Odoo Developer
-- 🌐 Interested in Web Development and React
+- 🌐 Web development and React
+- 💻 Freelance Software & Web Developer (2021–2025): programming, website design, research document preparation support, and Microsoft Word, Excel, PowerPoint and Access services
 - 🤖 Using AI-assisted workflows to accelerate development, with a focus on reviewing, testing, and improving results
 - 📈 Interested in both Software Engineering and Technical Management
 
@@ -73,7 +82,7 @@ The system helps streamline academic scheduling by automatically generating time
 - **Category:** Educational Management Software
 - **Runtime:** Node.js
 - **Deployment:** Render
-- **Status:** Live — New Version in Development
+- **Status:** Live — Approved account required
 - **Source Code:** Private
 
 [![Live Application](https://img.shields.io/badge/Live_Application-View_Project-2EA44F?style=for-the-badge&logo=render&logoColor=white)](https://sakaka-institute-timetable.onrender.com/)
@@ -91,6 +100,7 @@ The system helps streamline academic scheduling by automatically generating time
 
 ### 🤝 Let's Connect
 
+- 🌐 [Portfolio](https://mohammed-samir-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-samir-13657a2ba/)
 - 💻 [GitHub](https://github.com/mohammed111001)
 
